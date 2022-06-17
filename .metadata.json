@@ -1,0 +1,14 @@
+[
+  {
+    "package": "partools",
+    "oncran": true
+  },
+  {
+    "package": "polyreg",
+    "oncran": true
+  },
+  {
+    "package": "regtools",
+    "oncran": true
+  }
+]

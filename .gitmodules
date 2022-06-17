@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "partools"]
+	path = partools
+	url = https://github.com/matloff/partools
+	shallow = true
+	registered = true
+[submodule "polyreg"]
+	path = polyreg
+	url = https://github.com/matloff/polyreg
+	shallow = true
+	registered = true
+[submodule "regtools"]
+	path = regtools
+	url = https://github.com/matloff/regtools
+	shallow = true
+	registered = true
