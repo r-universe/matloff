@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "regtools"]
-	path = regtools
-	url = https://github.com/matloff/regtools
+[submodule "partools"]
+	path = partools
+	url = https://github.com/matloff/partools
 	shallow = true
 	registered = true
 [submodule "polyreg"]
@@ -13,8 +13,13 @@
 	url = https://github.com/matloff/polyreg
 	shallow = true
 	registered = true
-[submodule "partools"]
-	path = partools
-	url = https://github.com/matloff/partools
+[submodule "regtools"]
+	path = regtools
+	url = https://github.com/matloff/regtools
+	shallow = true
+	registered = true
+[submodule "toweranNA"]
+	path = toweranNA
+	url = https://github.com/matloff/toweranna
 	shallow = true
 	registered = true

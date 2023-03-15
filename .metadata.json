@@ -1,6 +1,6 @@
 [
   {
-    "package": "regtools",
+    "package": "partools",
     "oncran": true
   },
   {
@@ -8,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "partools",
+    "package": "regtools",
+    "oncran": true
+  },
+  {
+    "package": "toweranNA",
     "oncran": true
   }
 ]
