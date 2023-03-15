@@ -1,6 +1,6 @@
 [
   {
-    "package": "partools",
+    "package": "regtools",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "regtools",
+    "package": "partools",
     "oncran": true
   }
 ]
