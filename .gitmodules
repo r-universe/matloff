@@ -8,6 +8,9 @@
 [submodule "polyreg"]
 	path = polyreg
 	url = https://github.com/matloff/polyreg
+[submodule "qeML"]
+	path = qeML
+	url = https://github.com/matloff/qeml
 [submodule "regtools"]
 	path = regtools
 	url = https://github.com/matloff/regtools
