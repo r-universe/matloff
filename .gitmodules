@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "changeS"]
+	path = changeS
+	url = https://github.com/matloff/changes
 [submodule "partools"]
 	path = partools
 	url = https://github.com/matloff/partools
