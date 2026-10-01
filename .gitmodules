@@ -5,6 +5,9 @@
 [submodule "changeS"]
 	path = changeS
 	url = https://github.com/matloff/changes
+[submodule "mvPred"]
+	path = mvPred
+	url = https://github.com/matloff/mvpred
 [submodule "partools"]
 	path = partools
 	url = https://github.com/matloff/partools
